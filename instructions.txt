@@ -1,0 +1,14 @@
+starting a repo:
+
+git init
+git branch -M main
+git lfs install
+git add .gitattributes .gitignore
+git commit -m "Initial: git config"
+git add -A
+git commit -m "Initial: project"
+
+
+normal use:
+git add .
+git commit -m "Your message here"
