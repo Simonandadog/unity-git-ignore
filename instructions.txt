@@ -3,6 +3,9 @@ starting a repo:
 git init
 git branch -M main
 git lfs install
+
+pull .gitattributes and .gitignore
+
 git add .gitattributes .gitignore
 git commit -m "Initial: git config"
 git add -A
